@@ -1,3 +1,8 @@
+**FOR THOSE CODERS WHO WANT TO COMPILE NEON ON WINDOWS**
+You don't have to do it on msys or cygwin, as you may just remove the dependency of the posix-ipc module.
+That's this special version all about.
+
+
 **DISCONTINUATION OF PROJECT.**  This project will no longer be maintained by Intel.  Intel will not provide or guarantee development of or support for this project, including but not limited to, maintenance, bug fixes, new releases or updates.  Patches to this project are no longer accepted by Intel. If you have an ongoing need to use this project, are interested in independently developing it, or would like to maintain patches for the community, please create your own fork of the project.
 
 # neon
