@@ -79,7 +79,7 @@ requirements = [
     "pytest",
     "pytest-cov",
     "pytest-mock",
-    "posix_ipc",
+#   "posix_ipc",
     "pillow",
     "pylint",
     "sphinx",
